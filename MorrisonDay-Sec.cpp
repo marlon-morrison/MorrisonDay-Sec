@@ -7,7 +7,7 @@ int main()
     int days;
     int seconds;
     int hours;
-    int minutes;
+    int minutes; 
 
     cout << "Which one will you pick 1 or 2?"<< endl; 
     cout << "1)Convert the number of seconds into days." << endl;
